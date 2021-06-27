@@ -27,7 +27,7 @@
 
 
 <a href="https://github.com/AditiRavi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiRavi&show_icons=true&theme=buefy&line_height=30" alt="Aditi Ravi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiRavi&show_icons=true&theme=midnight-purple&line_height=30" alt="Aditi Ravi's github stats"/>
 </a>
 <br>
 
