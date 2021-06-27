@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Aditi Ravi 👋
 
-<!--
-**AditiRavi/AditiRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiRavi&style=flat-square&color=blueviolet" alt="AditiRavi" /> </p>
 
-Here are some ideas to get you started:
+</a>
+<a href="https://www.linkedin.com/in/aditi-ravi-07aaa81b3/">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/AditiRavi">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AditiRavi" alt="AditiRavi" /></a> </p>
+
+<a href="https://github.com/AditiRavi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiRavi&show_icons=true&theme=light&line_height=30" alt="Aditi Ravi's github stats"/>
+</a>
