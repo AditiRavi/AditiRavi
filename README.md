@@ -10,7 +10,9 @@
   <img align="left" alt="Aditi Ravi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
+
 ## About Me
+
 - 👋 Hi, I’m @AditiRavi
 - 👀 I’m a mobile application developer and UI | UX Designer.
 - 🌱 I’m currently working on something cool :wink:
