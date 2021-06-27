@@ -1,7 +1,9 @@
-### Hi there, I'm Aditi Ravi 👋
+## Hi there, I'm Aditi Ravi 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AditiRavi&style=flat-square&color=blueviolet" alt="AditiRavi" /> </p>
 
+
+<h2>Get in Touch<h2>
 </a>
 <a href="https://www.linkedin.com/in/aditi-ravi-07aaa81b3/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,20 +13,20 @@
 </a>
 <br>
 
-## About Me
+## ⭐️ About Me
 
 - 👋 Hi, I’m @AditiRavi
 - 👀 I’m a mobile application developer and UI | UX Designer.
 - 🌱 I’m currently working on something cool :wink:
 
-## GitHub Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AditiRavi" alt="AditiRavi" /></a> </p>
+## 📊 GitHub Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AditiRavi&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="AditiRavi" /></a> </p>
 
 <a href="https://github.com/AditiRavi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiRavi&show_icons=true&theme=light&line_height=30" alt="Aditi Ravi's github stats"/>
 </a>
 
-## Streak Stats
+## 🔥 Streak Stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
