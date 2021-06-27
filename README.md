@@ -20,6 +20,7 @@
 <br>
   
 <br>
+
 ## 📊 GitHub Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AditiRavi&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="AditiRavi" /></a> </p>
 
@@ -27,6 +28,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AditiRavi&show_icons=true&theme=light&line_height=30" alt="Aditi Ravi's github stats"/>
 </a>
 <br>
+
 ## 🔥 Streak Stats
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
